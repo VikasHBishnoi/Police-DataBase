@@ -1,0 +1,11 @@
+fir_id,suspect_name,contact_no,gender,address,place_of_incident,date_and_time,brief,user_id,official_id
+1001,supect123,1234567890,male,gandhinagar,gandhinagar,"2021-11-04 12:23:44",NULL,1,9001
+1002,supect124,1234567891,male,gandhinagar,gandhinagar,"2021-11-04 12:23:44",NO,2,9002
+1003,supect125,1234567892,male,gandhinagar,gandhinagar,"2021-11-04 12:23:44",NO,3,9003
+1004,supect126,1234567893,femal,gandhinagar,gandhinagar,"2021-11-04 12:23:44",NO,4,9004
+1005,supect127,1234567894,male,gandhinagar,gandhinagar,"2021-11-04 12:23:44",NO,5,9005
+1006,supect128,1234567895,femal,gandhinagar,gandhinagar,"2021-11-04 12:23:44",NO,6,9006
+1007,supect129,1234567896,femal,gandhinagar,gandhinagar,"2021-11-04 12:23:44",NO,7,9007
+1008,supect130,1234567897,male,gandhinagar,gandhinagar,"2021-11-04 12:23:44",NO,8,9008
+1009,supect131,1234567898,male,gandhinagar,gandhinagar,"2021-11-04 12:23:44",NO,9,9009
+1010,supect132,1234567899,male,gandhinagar,gandhinagar,"2021-11-04 12:23:44",NO,10,9010
